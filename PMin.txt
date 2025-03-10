@@ -1,0 +1,3 @@
+PrimeMinister|Country
+Modi|India
+Rishi|UK

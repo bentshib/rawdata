@@ -1,0 +1,183 @@
+OrderDate,Region,Rep,Item,Units,Unit Price
+06-Jan-19,East,Richard,Pencil,95,1.99
+15-Jan-19,Central,Bill,Binder,46,8.99
+23-Jan-19,Central,Matthew,Binder,50,19.99
+01-Feb-19,Central,Smith,Binder,87,15
+09-Feb-19,Central,Alex,Pencil,36,4.99
+18-Feb-19,East,Richard,Binder,4,4.99
+26-Feb-19,Central,Bill,Pen,27,19.99
+07-Mar-19,West,James,Binder,7,19.99
+15-Mar-19,West,James,Pencil,56,2.99
+24-Mar-19,Central,Alex,Pen Set,50,4.99
+01-Apr-19,East,Richard,Binder,60,4.99
+10-Apr-19,Central,Rachel,Pencil,66,1.99
+18-Apr-19,Central,Rachel,Pencil,75,1.99
+27-Apr-19,East,Nick,Pen,96,4.99
+05-May-19,Central,Alex,Pencil,90,4.99
+14-May-19,Central,Bill,Pencil,53,1.29
+22-May-19,West,Thomas,Pencil,32,1.99
+31-May-19,Central,Bill,Binder,80,8.99
+08-Jun-19,East,Richard,Binder,60,8.99
+17-Jun-19,Central,Matthew,Desk,5,125
+25-Jun-19,Central,Morgan,Pencil,90,4.99
+04-Jul-19,East,Richard,Pen Set,62,4.99
+12-Jul-19,East,Nick,Binder,29,1.99
+21-Jul-19,Central,Morgan,Pen Set,55,12.49
+29-Jul-19,East,Susan,Binder,81,19.99
+07-Aug-19,Central,Matthew,Pen Set,42,23.95
+15-Aug-19,East,Richard,Pencil,35,4.99
+24-Aug-19,West,James,Desk,3,275
+01-Sep-19,Central,Smith,Desk,2,125
+10-Sep-19,Central,Bill,Pencil,7,1.29
+18-Sep-19,East,Richard,Pen Set,16,15.99
+27-Sep-19,West,James,Pen,76,1.99
+05-Oct-19,Central,Morgan,Binder,28,8.99
+14-Oct-19,West,Thomas,Binder,57,19.99
+22-Oct-19,East,Richard,Pen,64,8.99
+31-Oct-19,Central,Rachel,Pencil,14,1.29
+08-Nov-19,East,Susan,Pen,15,19.99
+17-Nov-19,Central,Alex,Binder,11,4.99
+25-Nov-19,Central,Matthew,Pen Set,96,4.99
+15-Dec-19,Central,Richard,Pencil,15,3.55
+16-Dec-19,Central,Bill,Binder,15,3.55
+02-Jan-20,Central,Matthew,Binder,15,60
+05-Jan-20,Central,Smith,Binder,15,60
+11-Jan-20,Central,Alex,Pencil,15,60
+12-Jan-20,Central,Richard,Binder,15,60
+14-Jan-20,Central,Bill,Pen,15,60
+18-Jan-20,Central,James,Binder,15,60
+26-Jan-20,Central,James,Pencil,94,56
+28-Jan-20,Central,Alex,Pen Set,45,80
+29-Jan-20,Central,Richard,Binder,26,70
+31-Jan-20,Central,Rachel,Pencil,35,26
+01-Feb-20,Central,Rachel,Pencil,21,35
+09-Feb-20,Central,Nick,Pen,35,32
+13-Feb-20,Central,Alex,Pencil,65,36
+19-Feb-20,Central,Bill,Pencil,98,45
+27-Feb-20,Central,Thomas,Pencil,45,54
+02-Mar-20,Central,Bill,Binder,45,14
+03-Mar-20,Central,Richard,Binder,47,56
+06-Mar-20,Central,Matthew,Desk,14,65
+10-Mar-20,Central,Morgan,Pencil,35,26
+12-Mar-20,Central,Richard,Pen Set,21,35
+16-Mar-20,Central,Nick,Binder,35,32
+18-Mar-20,Central,Morgan,Pen Set,65,36
+21-Mar-20,Central,Susan,Binder,98,45
+22-Mar-20,Central,Matthew,Pen Set,45,54
+29-Mar-20,Central,Richard,Pencil,15,60
+05-Apr-20,Central,James,Desk,15,60
+08-Apr-20,Central,Smith,Desk,15,60
+11-Apr-20,Central,Bill,Pencil,15,60
+21-May-20,Central,Richard,Pen Set,98,45
+22-May-20,Central,James,Pen,45,54
+29-May-20,Central,Morgan,Binder,15,60
+05-Jun-20,Central,Thomas,Binder,15,60
+08-Jun-20,Central,Richard,Pen,15,60
+11-Jun-20,Central,Rachel,Pencil,15,60
+15-Jun-20,Central,Susan,Pen,26,70
+18-Jun-20,Central,Alex,Binder,35,26
+21-Jun-20,Central,Matthew,Pen Set,21,35
+28-Jun-20,Central,Richard,Pencil,35,32
+02-Jul-20,Central,Bill,Binder,65,36
+04-Jul-20,Central,Matthew,Binder,98,45
+06-Jul-20,Central,Smith,Binder,45,54
+09-Jul-20,Central,Alex,Pencil,45,14
+10-Jul-20,Central,Richard,Binder,47,56
+15-Jul-20,Central,Bill,Pen,98,45
+21-Jul-20,Central,James,Binder,45,54
+24-Jul-20,Central,James,Pencil,45,14
+31-Jul-20,Central,Alex,Pen Set,47,56
+05-Aug-20,Central,Richard,Binder,45,14
+09-Aug-20,Central,Rachel,Pencil,47,56
+15-Aug-20,Central,Rachel,Pencil,98,45
+17-Aug-20,Central,Nick,Pen,45,54
+19-Aug-20,Central,Alex,Pencil,45,14
+21-Aug-20,Central,Bill,Pencil,47,56
+13-Sep-20,Central,Thomas,Pencil,47,56
+19-Sep-20,Central,Bill,Binder,45,14
+24-Sep-20,Central,Richard,Binder,47,56
+30-Sep-20,Central,Matthew,Desk,98,45
+05-Oct-20,Central,Morgan,Pencil,45,54
+10-Oct-20,Central,Richard,Pen Set,45,14
+16-Oct-20,Central,Nick,Binder,47,56
+23-Oct-20,Central,Morgan,Pen Set,45,54
+31-Oct-20,Central,Susan,Binder,15,60
+23-Nov-20,Central,Matthew,Pen Set,15,60
+30-Nov-20,Central,Richard,Pencil,15,60
+13-Dec-20,Central,James,Desk,15,60
+31-Dec-20,Central,Smith,Desk,26,70
+11-Jan-21,Central,Bill,Pencil,35,26
+17-Jan-21,Central,Richard,Pen Set,21,35
+26-Jan-21,Central,James,Pen,35,32
+11-Feb-21,Central,Morgan,Binder,15,60
+17-Feb-21,Central,Thomas,Binder,15,60
+26-Feb-21,Central,Richard,Pen,15,60
+13-Mar-21,West,Rachel,Pencil,57,19.99
+19-Mar-21,East,Susan,Pen,64,8.99
+22-Mar-21,Central,Alex,Binder,14,1.29
+03-Apr-21,West,Matthew,Pen Set,57,19.99
+16-Apr-21,East,Richard,Pencil,64,8.99
+23-Apr-21,Central,Bill,Binder,14,1.29
+03-May-21,Central,Matthew,Binder,15,60
+16-May-21,Central,Smith,Binder,15,60
+23-May-21,Central,Alex,Pencil,26,70
+02-Jun-21,Central,Richard,Binder,14,1.29
+13-Jun-21,Central,Bill,Pen,15,60
+16-Jun-21,Central,James,Binder,15,60
+18-Jun-21,Central,James,Pencil,26,70
+03-Jul-21,Central,Alex,Pen Set,15,60
+16-Jul-21,Central,Richard,Binder,15,60
+23-Jul-21,Central,Rachel,Pencil,26,70
+25-Jul-21,Central,Rachel,Pencil,14,1.29
+28-Jul-21,Central,Nick,Pen,15,60
+29-Jul-21,Central,Alex,Pencil,15,60
+31-Jul-21,Central,Bill,Pencil,26,70
+02-Aug-21,Central,Thomas,Pencil,14,1.29
+15-Aug-21,Central,Bill,Binder,15,60
+23-Aug-21,Central,Richard,Binder,15,60
+28-Aug-21,Central,Matthew,Desk,26,70
+30-Aug-21,Central,Morgan,Pencil,15,60
+31-Aug-21,Central,Richard,Pen Set,15,60
+11-Sep-21,Central,Nick,Binder,26,70
+14-Sep-21,Central,Morgan,Pen Set,14,1.29
+18-Sep-21,Central,Susan,Binder,15,60
+23-Sep-21,Central,Matthew,Pen Set,15,60
+24-Sep-21,Central,Richard,Pencil,26,70
+14-Oct-21,West,James,Desk,7,19.99
+18-Oct-21,West,Smith,Desk,56,2.99
+21-Oct-21,Central,Bill,Pencil,50,4.99
+24-Oct-21,East,Richard,Pen Set,60,4.99
+31-Oct-21,Central,James,Pen,15,60
+23-Nov-21,Central,Morgan,Binder,15,60
+30-Nov-21,Central,Thomas,Binder,15,60
+13-Dec-21,Central,Richard,Pen,15,60
+18-Dec-21,Central,Rachel,Pencil,15,60
+24-Dec-21,East,Susan,Pen,60,4.99
+01-Jan-22,Central,Alex,Binder,15,60
+03-Jan-22,Central,Matthew,Pen Set,15,60
+13-Jan-22,Central,Richard,Pencil,15,60
+25-Jan-22,Central,Bill,Binder,15,60
+29-Jan-22,Central,Matthew,Binder,15,60
+01-Feb-22,Central,Smith,Binder,15,60
+03-Feb-22,Central,Alex,Pencil,15,60
+13-Feb-22,Central,Richard,Binder,15,60
+18-Feb-22,Central,Bill,Pen,15,60
+19-Feb-22,Central,James,Binder,15,60
+24-Feb-22,Central,James,Pencil,15,60
+25-Feb-22,Central,Alex,Pen Set,15,60
+28-Feb-22,Central,Richard,Binder,15,60
+01-Mar-22,Central,Rachel,Pencil,15,60
+03-Mar-22,Central,Rachel,Pencil,15,60
+13-Mar-22,Central,Nick,Pen,15,60
+18-Mar-22,Central,Alex,Pencil,15,60
+25-Mar-22,Central,Bill,Pencil,15,60
+31-Mar-22,Central,Thomas,Pencil,15,60
+01-Apr-22,Central,Bill,Binder,15,60
+02-Apr-22,Central,Richard,Binder,15,60
+03-Apr-22,Central,Matthew,Desk,15,60
+04-Apr-22,Central,Morgan,Pencil,15,60
+05-Apr-22,Central,Richard,Pen Set,15,60
+08-Apr-22,Central,Nick,Binder,15,60
+09-Apr-22,Central,Morgan,Pen Set,15,60
+13-Apr-22,Central,Susan,Binder,15,60
+18-Apr-22,Central,Matthew,Pen Set,15,60
